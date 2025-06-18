@@ -2,6 +2,7 @@
 
 ![Dionnes92 GitHub stats](https://github-readme-stats.vercel.app/api?username=Dionnes92&show_icons=true&theme=radical)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)
 
 ### Tecnologias que uso no meu dia...
 
